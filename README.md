@@ -11,3 +11,5 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokBin&theme=tokyonight&show_icons=true)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=go_dbar94)](https://solved.ac/go_dbar94/)
